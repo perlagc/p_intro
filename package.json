@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    
     "deploy": "gh-pages -d src"
   },
   "repository": {
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/perlagc/p_intro#readme",
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^3.2.3"
   }
 }
